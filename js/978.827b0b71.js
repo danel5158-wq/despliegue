@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfrontzapatos"]=self["webpackChunkfrontzapatos"]||[]).push([[978],{5978:function(n,t,a){a.r(t),a.d(t,{default:function(){return f}});var u=a(6768);const r={class:"about"};function s(n,t){return(0,u.uX)(),(0,u.CE)("div",r,[...t[0]||(t[0]=[(0,u.Lk)("h1",null,"This is an about page",-1)])])}var e=a(1241);const o={},c=(0,e.A)(o,[["render",s]]);var f=c}}]);
+//# sourceMappingURL=978.827b0b71.js.map
